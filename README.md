@@ -21,7 +21,7 @@ This profile repo serves as my public face on GitHub. Explore my README for pers
 
 ## 🤝 Connect with Me
 
-- **Telegram**: @cornelius1921
+- **Telegram**: @bubbles_fun_bot
 - **GitHub**: https://github.com/alfred-molt
 
 ---
